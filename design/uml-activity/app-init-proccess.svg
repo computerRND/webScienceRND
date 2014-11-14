@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="917pt" style="width:887px;height:917px;" version="1.1" viewBox="0 0 887 917" width="887pt">
+    <defs>
+        <filter height="300%" id="f1" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <text fill="#000000" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="160" x="362" y="18">ComputerRND login</text>
+        <ellipse cx="149" cy="40.6406" fill="#000000" filter="url(#f1)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f1)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="110" x="94" y="91.6406"/>
+        <text fill="#000000" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="90" x="104" y="115.6406">Load-&gt;startUp</text>
+        <rect fill="#FEFECE" filter="url(#f1)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="75" x="111.5" y="170.6406"/>
+        <text fill="#000000" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="55" x="121.5" y="194.6406">AppStart</text>
+        <polygon fill="#FEFECE" filter="url(#f1)" points="149,256.6406,161,268.6406,149,280.6406,137,268.6406,149,256.6406" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <rect fill="#FEFECE" filter="url(#f1)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="154" x="235" y="249.6406"/>
+        <text fill="#000000" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="134" x="245" y="273.6406">userName()-&gt;StartUp</text>
+        <polygon fill="#FEFECE" filter="url(#f1)" points="312,328.6406,324,340.6406,312,352.6406,300,340.6406,312,328.6406" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <rect fill="#FEFECE" filter="url(#f1)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="211" x="251.5" y="588.6406"/>
+        <text fill="#000000" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="191" x="261.5" y="612.6406">AppCacheLoader()-&gt;StartUp()</text>
+        <rect fill="#FEFECE" filter="url(#f1)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="268" x="394" y="410.6406"/>
+        <text fill="#000000" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="248" x="404" y="434.6406">CreateUpdateUserAccount()-&gt;StartUp()</text>
+        <polygon fill="#FEFECE" filter="url(#f1)" points="354,506.6406,366,518.6406,354,530.6406,342,518.6406,354,506.6406" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <polygon fill="#FEFECE" filter="url(#f1)" points="594,506.6406,606,518.6406,594,530.6406,582,518.6406,594,506.6406" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <rect fill="#FEFECE" filter="url(#f1)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="229" x="577.5" y="588.6406"/>
+        <text fill="#000000" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="209" x="587.5" y="612.6406">UserAccountSecurity()-&gt;Stream()</text>
+        <rect fill="#000000" filter="url(#f1)" height="8" style="stroke: none; stroke-width: 1.0;" width="80" x="626" y="514.6406"/>
+        <polygon fill="#FEFECE" filter="url(#f1)" points="357,667.6406,369,679.6406,357,691.6406,345,679.6406,357,667.6406" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <rect fill="#FEFECE" filter="url(#f1)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="205" x="254.5" y="732.6406"/>
+        <text fill="#000000" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="185" x="264.5" y="756.6406">Drivers()-&gt;Stream()-StartUp()</text>
+        <polygon fill="#FEFECE" filter="url(#f1)" points="310,818.6406,322,830.6406,310,842.6406,298,830.6406,310,818.6406" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <polygon fill="#FEFECE" filter="url(#f1)" points="357,818.6406,369,830.6406,357,842.6406,345,830.6406,357,818.6406" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <rect fill="#FEFECE" filter="url(#f1)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="265" x="389.5" y="811.6406"/>
+        <text fill="#000000" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="245" x="399.5" y="835.6406">ScopeMod()-&gt;stdClass()-&gt;StartBuffer()</text>
+        <ellipse cx="522" cy="900.6406" fill="none" filter="url(#f1)" rx="10" ry="10" style="stroke: #000000; stroke-width: 1.0;"/>
+        <ellipse cx="522.5" cy="901.1406" fill="#000000" rx="6" ry="6" style="stroke: none; stroke-width: 1.0;"/>
+        <path d="M149,50.8116 C149,59.8836 149,74.1416 149,86.3486 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="149,91.4336,153,82.4336,149,86.4336,145,82.4336,149,91.4336" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M149,129.8886 C149,140.5326 149,154.0646 149,165.4576 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="149,170.5236,153,161.5236,149,165.5236,145,161.5236,149,170.5236" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M149,208.8886 C149,221.8076 149,238.9806 149,251.4206 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="149,256.4366,153,247.4366,149,251.4366,145,247.4366,149,256.4366" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="123" x="5.8906" y="247.8037">OnLoad-&gt;AutoLogin()</text>
+        <path d="M161.251,268.6406 C176.237,268.6406 202.933,268.6406 229.738,268.6406 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="234.742,268.6406,225.742,264.6406,229.742,268.6406,225.742,272.6406,234.742,268.6406" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="52" x="172" y="261.6406">validUser</text>
+        <path d="M312,287.6676 C312,298.5676 312,312.3666 312,323.0066 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="312,328.2506,316,319.2506,312,323.2506,308,319.2506,312,328.2506" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="119" x="173.2906" y="318.5547">Onload-&gt;AutoLogin()</text>
+        <path d="M308.001,348.9766 C296.839,370.4196 267.118,434.7486 282,486.6406 C292.775,524.2126 319.125,561.4326 337.529,584.2256 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="340.867,588.3106,338.2685,578.8108,337.7028,584.4392,332.0743,583.8735,340.867,588.3106" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="56" x="283" y="482.6406">ValidUser</text>
+        <path d="M319.944,344.8406 C345.211,355.0176 425.183,387.2286 478.296,408.6206 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="483.029,410.5276,476.1736,403.4563,478.3907,408.6606,473.1864,410.8776,483.029,410.5276" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="74" x="433" y="386.6406">InValidUser()</text>
+        <path d="M393.983,448.2336 C374.047,453.4626 357.865,460.1456 351,468.6406 C342.898,478.6666 345.417,493.9506 348.835,504.7786 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="350.542,509.6936,351.3684,499.8795,348.9018,504.9703,343.811,502.5038,350.542,509.6936" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="154" x="179.9475" y="503.2346">UserLoginScript()-&gt;Startup</text>
+        <path d="M354.086,506.6786 C354.785,495.5356 357.639,478.5446 368,468.6406 C375.563,461.4116 391.909,455.2066 411.389,450.0336 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="416.406,448.7396,406.6927,447.1112,411.5641,449.9869,408.6883,454.8583,416.406,448.7396" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="224" x="369" y="482.6406">InValidUser()-&gt;Stream()-&gt;DosCounter()</text>
+        <path d="M593.38,448.8056 C601.929,453.8826 609.585,460.3656 615,468.6406 C623.412,481.4936 612.09,498.2766 603.086,508.4916 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="599.675,512.1876,608.7186,508.2872,603.0663,508.5135,602.84,502.8612,599.675,512.1876" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="250" x="636.7503" y="503.2857">UserLoginScript()-&gt;Startup()-&gt;DosCounter()</text>
+        <path d="M599.837,524.8226 C612.925,536.4416 645.243,565.1316 667.895,585.2416 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="671.724,588.6406,667.6505,579.6736,667.9854,585.3206,662.3384,585.6554,671.724,588.6406" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="66" x="649" y="564.6406">InValidUser</text>
+        <path d="M714.72,588.6346 C747.151,560.8046 799.396,506.5946 767,468.6406 C752.981,452.2166 711.689,442.8556 667.286,437.5336 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="662.139,436.9366,670.6172,441.9486,667.1056,437.5137,671.5405,434.0021,662.139,436.9366" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="74" x="776" y="523.6406">InValidUser()</text>
+        <path d="M596.054,448.6516 C608.744,453.8536 621.347,460.4196 632,468.6406 C646.519,479.8456 657.223,499.0026 662.441,509.7436 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="664.661,514.5066,664.4842,504.6594,662.5486,509.9748,657.2332,508.0392,664.661,514.5066" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="112" x="649" y="482.6406">IF(isset($DosAlert))</text>
+        <path d="M585.842,522.6356 C558.687,532.6036 469.757,565.2486 411.088,586.7856 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="406.213,588.5746,416.0401,589.2289,410.9069,586.8519,413.2838,581.7187,406.213,588.5746" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="56" x="504" y="564.6406">ValidUser</text>
+        <path d="M357,626.6676 C357,637.5676 357,651.3666 357,662.0066 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="357,667.2506,361,658.2506,357,662.2506,353,658.2506,357,667.2506" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="186" x="150.6563" y="659.8288">scopeMod-&gt;StartUp()-&gt;Stream()</text>
+        <path d="M357,691.8876 C357,701.4056 357,715.3606 357,727.2826 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="357,732.5936,361,723.5936,357,727.5936,353,723.5936,357,732.5936" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M339.373,770.8886 C329.753,784.2376 318.968,802.1266 313.068,814.6453 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="310.99,819.3235,318.2985,812.7215,313.0193,814.7538,310.987,809.4747,310.99,819.3235" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="205" x="85.0538" y="812.3757">[fsCheck] "fs()-&gt;Stream()-StartUp()"</text>
+        <path d="M316.654,824.9901 C325.911,815.4295 340.636,793.0076 349.893,775.6386 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="352.35,770.8886,344.6625,777.0451,350.053,775.3298,351.7683,780.7203,352.35,770.8886" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M350.511,770.8886 C348.913,785.3896 349.209,805.2486 351.401,817.7603 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="352.542,822.9462,354.5153,813.2971,351.4679,818.063,346.702,815.0156,352.542,822.9462" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="249" x="41.0485" y="836.3133">[formsCheck] "forms()-&gt;Stream()-StartUp()"</text>
+        <path d="M361.458,822.9462 C364.331,812.6241 365.169,792.3266 363.972,776.1836 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="363.489,770.8886,360.3234,780.2149,363.9434,775.8679,368.2903,779.4879,363.489,770.8886" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M395.685,770.6936 C420.524,782.2856 452.828,797.3606 478.549,809.3636 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="483.272,811.5674,476.8073,804.1372,478.7409,809.4534,473.4248,811.387,483.272,811.5674" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M522,849.8634 C522,860.9857 522,875.0024 522,885.3256 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="522,890.3525,526,881.3525,522,885.3525,518,881.3525,522,890.3525" style="stroke: #A80036; stroke-width: 1.0;"/>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+@startuml
+title ComputerRND login
+
+(*) --> "Load->startUp"
+--> "AppStart"
+
+if "     OnLoad->AutoLogin()" then 
+->[validUser] "userName()->StartUp"
+
+    if "Onload->AutoLogin()" then
+    -->[ValidUser] "AppCacheLoader()->StartUp()"
+
+else
+    -->[InValidUser()] "CreateUpdateUserAccount()->StartUp()"
+        if "UserLoginScript()->Startup"
+        -->[InValidUser()->Stream()->DosCounter()    ] "CreateUpdateUserAccount()->StartUp()"
+        if "UserLoginScript()->Startup()->DosCounter()    "
+ 
+        -->[InValidUser] "UserAccountSecurity()->Stream()"
+       -->[InValidUser()] "CreateUpdateUserAccount()->StartUp()"
+        -->[IF(isset($DosAlert))] ===REDIRECT_CHECK===
+        else
+        -->[ValidUser] "AppCacheLoader()->StartUp()"
+        if "scopeMod->StartUp()->Stream()" then
+--> "Drivers()->Stream()-StartUp()"
+    
+        if [fsCheck] "fs()->Stream()-StartUp()"
+--> "Drivers()->Stream()-StartUp()"
+
+        if [formsCheck] "forms()->Stream()-StartUp()"
+--> "Drivers()->Stream()-StartUp()"
+    --> "ScopeMod()->stdClass()->StartBuffer()"
+    
+-->(*)
+endif
+
+
+@enduml
