@@ -2,5 +2,5 @@
 
 interface i_core 
 {
-    
+   
 }
